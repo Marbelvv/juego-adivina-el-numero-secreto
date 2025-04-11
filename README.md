@@ -26,6 +26,7 @@ Este proyecto es un sencillo juego interactivo creado con HTML, CSS y JavaScript
 
 ## 🖼️ Vista previa
 
+![image](https://github.com/user-attachments/assets/dbcf8078-e72f-41df-b2bd-b0747afb652e)
 
 
 ## 🚀 Cómo ejecutar el proyecto
